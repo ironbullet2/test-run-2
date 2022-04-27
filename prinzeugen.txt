@@ -1,0 +1,63 @@
+	<!DOCTYPE html> 
+	<html>
+	<head>
+	<link rel="stylesheet" href="mystyle.css" />
+	<meta name="viewport" content="width=device=width, initial=scale=1.0">
+	<style> 
+	
+	
+	</style> 
+	</head>
+	<body>
+
+	<div class=header>
+
+	  <h1>Azur Lane - Characters</h1>
+	  </div>
+	  
+	  <div class="row">
+	  
+	  <div class="col-3 menu">
+		<ul> 
+		   <a href=enterprise.html><li>USS Enterprise</li></a>
+		   <a href=bismarck.html><li>KMS Bismarck</li></a>
+		   <a href=atago.html><li>IJN Atago</li></a>
+		   <a href=belfast.html><li>HMS Belfast</li></a>
+		   <a href=formidable.html><li>HMS Formidable</li></a>
+		</ul>
+	  </div>
+	  <div class="col-9">
+	 
+		<h1>Prinz Eugen</h1>
+		 <tr>
+       <td><img src="KMS_PrinzEugen.jpg" width=480	 bgcolor=white height=251.2>
+       <td><font face=Arial color=white >Prinz Eugen is one of the antagonists of the game Azur Lane 
+	   and the personified counterpart of the real KMS Prinz Eugen heavy cruiser. The player meets her 
+	   for the first time as the first boss in the game's tutorial of Japanese server, where she and KMS 
+	   Bismarck are fought. She does not appear in the campaign mode of the game, which focuses on the
+	   Pacific Ocean battles (battles in which Prinz Eugen rarely participated). As a playable character,
+	   she is a super rare ship who can be built, obtainable as a login reward on the 8th day of connection, 
+	   and she was droppable during the stage of an event. She appears arrogant, sometimes playing with the
+	   feelings of the commander or bashing Hood during battles at her side. She also loves alcoholic drinks,
+	   even being depicted as drunk in one of her skins. Some other shipgirls also make reference to this.</font></td>   
+   </tr>
+	 </div>
+								 
+	 </div>
+	  <div class="col-3 menu">
+		<ul> 
+		   <a href=akagi.html><li>IJN Akagi</li></a>
+		   <a href=kaga.html><li>IJN Kaga</li></a>
+		   <a href=roon.html><li>IJN Roon</li></a>
+		   <a href=FDG.html><li>KMS Friedrich der Große</li></a>
+		   <a href=PT1_GUIRITAN.html><li>HOME</li></a>
+		</ul>
+	  </div>
+	
+	 </div>
+	 
+	  
+	  
+ 
+</body>
+</html>		  
